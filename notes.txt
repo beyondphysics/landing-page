@@ -1,0 +1,8 @@
+tool for publishing: 
+https://www.authorea.com
+
+tools for data sharing:
+https://www.dataone.org/
+
+for scientific workflow:
+http://www.taverna.org.uk/
